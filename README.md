@@ -1,1 +1,1 @@
-# SBERT_SentenceTransformers_SementicSearch
+# SBERT_SentenceTransformers_SemanticSearch
